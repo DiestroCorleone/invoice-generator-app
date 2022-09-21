@@ -18,7 +18,7 @@ This directory is a brief example of a [Create React App](https://github.com/fac
 
 ## To Do
 
-[] Add item to list when pressing 'Enter'.
+- [] Add item to list when pressing 'Enter'.
 
 ## Deploy Your Own
 
