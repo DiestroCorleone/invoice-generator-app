@@ -1,4 +1,4 @@
-# Create React App
+# React Invoice Generator
 
 Tiny app that allows you to add items and price to be displayed in a table, displaying the total price of said items. You can also delete items from the list, and export a PDF with a detail of the invoice.
 
