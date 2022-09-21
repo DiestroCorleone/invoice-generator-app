@@ -10,7 +10,8 @@
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4","@types/react": ">=16.14.8",
-    "bootstrap": "^5.2.1",
+    "bootstrap": "^5.2.1",    
+    "react-bootstrap": "^2.5.0",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.5.25",
     "nanoid": "^4.0.0"
