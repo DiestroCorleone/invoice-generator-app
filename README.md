@@ -1,6 +1,6 @@
 # Create React App
 
-Tiny app that allows you to add items and price to be displayed in a table, displaying the total price of said items. You can also delete items from the list.
+Tiny app that allows you to add items and price to be displayed in a table, displaying the total price of said items. You can also delete items from the list, and export a PDF with a detail of the invoice.
 
 Inspired by [this Twitter thread](https://twitter.com/fmontes/status/1535427477459197952).
 Code on [StackBlitz](https://stackblitz.com/edit/react-31jrxv?file=src/App.js).
@@ -15,6 +15,10 @@ This directory is a brief example of a [Create React App](https://github.com/fac
 - [nanoid](https://www.npmjs.com/package/nanoid)
 - [jspdf](https://www.npmjs.com/package/jspdf)
 - [jspdf-autotable](https://www.npmjs.com/package/jspdf-autotable)
+
+## To Do
+
+[] Add item to list when pressing 'Enter'.
 
 ## Deploy Your Own
 
